@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "diddyclub-K1cj.aternos.me:20020",
+    "port": 20020,
     "version": "",
     "try-creative": false
   },
